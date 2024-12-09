@@ -33,6 +33,11 @@ Sonuçlarımızı daha anlamlı ve görsel hale getirmek için aşağıdaki yön
 ## 🏁 Sonuç
 Bu proje ile ürünler arasındaki **gizli ilişkiler** ortaya çıkarıldı ve **cross-selling stratejileri** için önemli bilgiler sağlandı. 🛒💬 Yüksek **lift** ve **confidence** değerine sahip kurallar, pazarlama kararlarında yol gösterici olacaktır. 📊
 
+![image](https://github.com/user-attachments/assets/f617dfbe-687c-4d57-a3fd-1328d877c7a5)
+
+![image](https://github.com/user-attachments/assets/c61c577a-88c3-42be-a6fe-9a596132d212)
+
+
 ---
 
 ## 📂 Dosyalar
